@@ -1,0 +1,31 @@
+#page-header.about-header{
+  background-image: url("images/about/banner.png");
+  
+}
+
+#about-header {
+  display: flex;
+  align-items: center;
+  
+}
+
+#about-header img{
+  width: 50%;
+  height: auto;
+
+}
+
+#about-header div{
+  padding-left: 40px;
+}
+
+#about-header p {
+  text-align:justify;
+  font-size: 20px;
+}
+
+#about-app {
+  text-align: center;
+
+}
+
